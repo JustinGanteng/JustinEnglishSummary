@@ -1,0 +1,13 @@
+center{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    border: 0px solid;
+    height: 100vh;
+    background-image: url("spidermen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.summary{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
